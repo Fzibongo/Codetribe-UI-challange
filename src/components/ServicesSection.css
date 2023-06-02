@@ -1,0 +1,36 @@
+.services-section {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .services-section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .services-list {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+  }
+  
+  .service {
+    max-width: 250px;
+  }
+  
+  .service img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 15px;
+  }
+  
+  .service h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .service p {
+    font-size: 16px;
+  }
